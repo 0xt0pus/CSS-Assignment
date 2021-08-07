@@ -1,0 +1,160 @@
+body{
+
+
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+h1{
+    margin-top: 30px;
+}
+
+
+
+.chickenh2{
+    position: absolute;
+    left:81.7%;
+    bottom: 64%;
+    border: solid black 1px;
+    background-color: burlywood;
+    padding: 5px;
+
+}
+
+
+.beefh2{
+    position: absolute;
+    left:88.7%;
+    bottom: 64%;
+    border: solid black 1px;
+    background-color: burlywood;
+    padding: 5px;
+}
+
+
+.sushih2{
+    position: absolute;
+    left:86.7%;
+    bottom: 64%;
+    border: solid black 1px;
+    background-color: burlywood;
+    padding: 5px;
+}
+
+
+@media (min-width:992px) {
+    
+
+
+.con1{
+    position: relative;
+    display: inline-block;
+    width: 26.801667659321026%;
+    border: black solid 1px;
+    background-color: beige;
+    padding: 40px 10px 20px 10px;
+}
+.con2{
+    position: relative;
+    display: inline-block;
+    width: 26.801667659321026%;
+    border: black solid 1px;
+    background-color: beige;
+    padding: 40px 10px 20px 10px;
+
+}
+
+.con3{
+    position: relative;
+    display: inline-block;
+    width: 26.8016676593210261%;
+    border: black solid 1px;
+    background-color: beige;
+    padding: 40px 10px 20px 10px;
+
+}
+
+}
+
+@media(min-width:768px) and (max-width:991px)
+{
+
+
+
+    .con1{
+        position: relative;
+        display: inline-block;
+        width: 40%;
+
+        border: black solid 1px;
+        border-radius: 5px;
+        background-color:beige;
+        padding: 40px 10px 20px 10px;
+    }
+    .con2{
+        position: relative;
+        display: inline-block;
+        width: 40%;
+
+        border: black solid 1px;
+        border-radius: 5px;
+        background-color: beige;
+        padding: 40px 10px 20px 10px;
+    
+    }
+    
+    .con3{
+        position: relative;
+        display: inline-block;
+        width: 81%;
+
+        border: black solid 1px;
+        border-radius: 5px;
+        background-color: beige;
+        padding: 40px 10px 20px 10px;
+        margin-top: 70px;
+    
+    }
+
+
+
+
+}
+
+@media(max-width:767px)
+{
+
+    .con1{
+        position: relative;
+        display: inline-block;
+        width: 90%;
+        border: black solid 1px;
+        background-color:beige;
+        padding: 40px 10px 20px 10px;
+    }
+    .con2{
+        position: relative;
+        display: inline-block;
+        width: 90%;
+        border: black solid 1px;
+        background-color: beige;
+        padding: 40px 10px 20px 10px;
+    
+    }
+    
+    .con3{
+        position: relative;
+        display: inline-block;
+        width: 90%;
+        border: black solid 1px;
+        background-color: beige;
+        padding: 40px 10px 20px 10px;
+    
+    }
+
+}
+
+
+
+
